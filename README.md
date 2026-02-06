@@ -1,7 +1,7 @@
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
 By Nagajyothi MS
 
-![Covid19-](Gemini_Generated_Image_6lk1zl6lk1zl6lk1.png)
+![Covid19-](Covid19.png)
 
 
 - **Brief Introduction**
