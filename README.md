@@ -1,7 +1,7 @@
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
 By Nagajyothi MS
 
-![Covid19-](https://github.com/jyothi233/Covid19-Vaccination-Analysis-with-SQL-and-tableau/assets/120651356/ab54c8f4-7465-49b9-8502-c9f758497889)
+![Covid19-](Covid19.....jpg)
 
 
 - **Brief Introduction**
