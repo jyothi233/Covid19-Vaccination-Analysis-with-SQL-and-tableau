@@ -1,4 +1,3 @@
-# Covid-Vaccination-Analysis-with-SQL-and-tableau
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
 By Nagajyothi MS
 
