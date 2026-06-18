@@ -16,12 +16,13 @@ The analysis conducted on the COVID-19 pandemic using the World Health Organizat
 
 
 **The following questions are what this analysis seeks to answer:**
-- What is the Percentage of Population Vaccinated
-- What is the number of Deaths By Continent
-- Which is the Continents with the highest death count per population
-- Which is Countries with Highest Infection Rate Compared to Population
-- What is the Total cases & population percentage infected
 - What is the Total Cases vs Total Deaths in Nigeria
+- What is the Total cases & population percentage infected
+- Which is Countries with Highest Infection Rate Compared to Population
+- Which is the Continents with the highest death count per population
+- What is the number of Deaths By Continent
+- What is the Percentage of Population Vaccinated
+
 
 
 
